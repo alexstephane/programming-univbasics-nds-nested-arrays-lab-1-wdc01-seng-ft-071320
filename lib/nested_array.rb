@@ -16,7 +16,7 @@ CONVENTIONAL_PRODUCE = [
   "Eggplant"
 ]
 
-#assembled_matrix
+def assembled_matrix
 #def assembled_matrixdef ass
   # Build an array that contains both of the above arrays
   # This matrix will represent a produce storage room
